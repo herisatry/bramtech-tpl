@@ -1,5 +1,17 @@
 .container{
   width: 1170px;
   margin: 0 auto; /* Centre auto */
+  //z-index: 5;
+ position: relative;
+ clear: both;
 
+}
+
+.footers{
+
+  color: #000;
+  padding-right:0 auto 0 auto;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
 }

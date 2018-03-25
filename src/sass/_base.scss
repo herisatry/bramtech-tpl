@@ -17,6 +17,7 @@ a{
 }
 
 h2{
+  max-width: 0 0 10px 0;
   color:#000;
   font-size: 20px;
   line-height: 1.25;
@@ -27,4 +28,16 @@ p{
   margin: 0;
   margin-bottom: 20px;
 }
-.cb{clear: both;}
+
+hr{
+  margin: 115px 0;
+  padding: 0;
+  height: 2px;
+  border: none;
+  background-color: #e6e6e6;
+}
+
+.cb{
+    clear: both;
+    display: block;
+}

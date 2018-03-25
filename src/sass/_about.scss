@@ -1,0 +1,26 @@
+.about{
+  clear: both;
+
+}
+
+.about-text{
+  width: 630px;
+  float: left;
+
+}
+
+.about-picture{
+float: right;
+
+}
+
+.about-inverse{
+  .about-picture{
+    float: left;
+  }
+  .about-text{
+    width: 630px;
+    float: right;
+  }
+
+}
